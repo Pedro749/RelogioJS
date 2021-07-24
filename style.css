@@ -19,6 +19,9 @@ div#watch {
     height: 400px;
     border-radius: 200px;
     position: relative;
+    background-image: url(./img/relogio.jpg);
+    background-position: center;
+    background-size: 415px;
 }
 div#pointers {
     margin: auto;
